@@ -1,5 +1,5 @@
 from fastapi.security import HTTPBearer
-from jwt_manager import validate_token
+from utils.jwt_manager import validate_token
 from fastapi import HTTPException
 
 from fastapi import Request
