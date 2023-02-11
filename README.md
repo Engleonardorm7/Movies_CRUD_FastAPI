@@ -37,7 +37,7 @@ Features included:
 ```
 
 ## Basic Usage
-Once you are running the server open the [Swagger UI App](http://localhost:8000/docs) to checkout the API documentation.
+Once you are running the server open the [Swagger UI App](http://127.0.0.1:8000/docs#/) to checkout the API documentation.
 
 ## Author
 Leonardo Rodriguez - [Github Profile](https://github.com/Engleonardorm7)
